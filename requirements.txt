@@ -1,6 +1,10 @@
-matplotlib, 
-seaborn, 
-plotly, 
-sklearn, 
-pandas, 
+matplotlib 
+seaborn
+pandas
 numpy
+streamlit
+plotly
+sklearn.ensemble
+sklearn.metrics
+sklearn.model_selection
+
