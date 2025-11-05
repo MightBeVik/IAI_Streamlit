@@ -1,1 +1,6 @@
-matplotlib
+matplotlib, 
+seaborn, 
+plotly, 
+sklearn, 
+pandas, 
+numpy
