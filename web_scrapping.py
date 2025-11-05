@@ -34,5 +34,5 @@ data = pd.DataFrame({
 })
 
 #st.dataframe(data)
-#st.table(data)
+st.table(data)
 
