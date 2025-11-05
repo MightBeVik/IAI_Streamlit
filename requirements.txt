@@ -4,7 +4,5 @@ pandas
 numpy
 streamlit
 plotly
-sklearn.ensemble
-sklearn.metrics
-sklearn.model_selection
+
 
